@@ -1,3 +1,4 @@
+CREATE DATABASE `BookstoreDB`;
 USE `BookstoreDB`;
 
 -- Get customer names, order dates, book titles, and quantities
